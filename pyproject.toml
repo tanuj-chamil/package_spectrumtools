@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "spectrumtools"
-version = "0.0.1"
+version = "0.0.3"
 authors = [
 { name="Tanuj Chamil", email="tanujchamil@gmail.com" },
 ]
